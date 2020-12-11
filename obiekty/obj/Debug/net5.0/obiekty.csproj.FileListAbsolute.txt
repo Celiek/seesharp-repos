@@ -1,0 +1,16 @@
+C:\Users\bosko\Desktop\seesharp\obiekty\bin\Debug\net5.0\obiekty.exe
+C:\Users\bosko\Desktop\seesharp\obiekty\bin\Debug\net5.0\obiekty.deps.json
+C:\Users\bosko\Desktop\seesharp\obiekty\bin\Debug\net5.0\obiekty.runtimeconfig.json
+C:\Users\bosko\Desktop\seesharp\obiekty\bin\Debug\net5.0\obiekty.runtimeconfig.dev.json
+C:\Users\bosko\Desktop\seesharp\obiekty\bin\Debug\net5.0\obiekty.dll
+C:\Users\bosko\Desktop\seesharp\obiekty\bin\Debug\net5.0\ref\obiekty.dll
+C:\Users\bosko\Desktop\seesharp\obiekty\bin\Debug\net5.0\obiekty.pdb
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\obiekty.csprojAssemblyReference.cache
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\obiekty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\obiekty.AssemblyInfoInputs.cache
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\obiekty.AssemblyInfo.cs
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\obiekty.csproj.CoreCompileInputs.cache
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\obiekty.dll
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\ref\obiekty.dll
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\obiekty.pdb
+C:\Users\bosko\Desktop\seesharp\obiekty\obj\Debug\net5.0\obiekty.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\konstruktory.csprojAssemblyReference.cache
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\konstruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\konstruktory.AssemblyInfoInputs.cache
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\konstruktory.AssemblyInfo.cs
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\bosko\Desktop\seesharp\konstruktory\bin\Debug\net5.0\konstruktory.exe
+C:\Users\bosko\Desktop\seesharp\konstruktory\bin\Debug\net5.0\konstruktory.deps.json
+C:\Users\bosko\Desktop\seesharp\konstruktory\bin\Debug\net5.0\konstruktory.runtimeconfig.json
+C:\Users\bosko\Desktop\seesharp\konstruktory\bin\Debug\net5.0\konstruktory.runtimeconfig.dev.json
+C:\Users\bosko\Desktop\seesharp\konstruktory\bin\Debug\net5.0\konstruktory.dll
+C:\Users\bosko\Desktop\seesharp\konstruktory\bin\Debug\net5.0\ref\konstruktory.dll
+C:\Users\bosko\Desktop\seesharp\konstruktory\bin\Debug\net5.0\konstruktory.pdb
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\konstruktory.dll
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\ref\konstruktory.dll
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\konstruktory.pdb
+C:\Users\bosko\Desktop\seesharp\konstruktory\obj\Debug\net5.0\konstruktory.genruntimeconfig.cache
