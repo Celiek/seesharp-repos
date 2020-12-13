@@ -1,0 +1,13 @@
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\bin\Debug\netcoreapp3.1\Members.exe
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\bin\Debug\netcoreapp3.1\Members.deps.json
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\bin\Debug\netcoreapp3.1\Members.runtimeconfig.json
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\bin\Debug\netcoreapp3.1\Members.runtimeconfig.dev.json
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\bin\Debug\netcoreapp3.1\Members.dll
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\bin\Debug\netcoreapp3.1\Members.pdb
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\obj\Debug\netcoreapp3.1\Members.csprojAssemblyReference.cache
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\obj\Debug\netcoreapp3.1\Members.AssemblyInfoInputs.cache
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\obj\Debug\netcoreapp3.1\Members.AssemblyInfo.cs
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\obj\Debug\netcoreapp3.1\Members.csproj.CoreCompileInputs.cache
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\obj\Debug\netcoreapp3.1\Members.dll
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\obj\Debug\netcoreapp3.1\Members.pdb
+C:\Users\bosko\Desktop\seesharp\Members\Members\Members\obj\Debug\netcoreapp3.1\Members.genruntimeconfig.cache

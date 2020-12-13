@@ -1,0 +1,16 @@
+C:\Users\bosko\Desktop\seesharp\odc10\bin\Debug\net5.0\odc10.exe
+C:\Users\bosko\Desktop\seesharp\odc10\bin\Debug\net5.0\odc10.deps.json
+C:\Users\bosko\Desktop\seesharp\odc10\bin\Debug\net5.0\odc10.runtimeconfig.json
+C:\Users\bosko\Desktop\seesharp\odc10\bin\Debug\net5.0\odc10.runtimeconfig.dev.json
+C:\Users\bosko\Desktop\seesharp\odc10\bin\Debug\net5.0\odc10.dll
+C:\Users\bosko\Desktop\seesharp\odc10\bin\Debug\net5.0\ref\odc10.dll
+C:\Users\bosko\Desktop\seesharp\odc10\bin\Debug\net5.0\odc10.pdb
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\odc10.csprojAssemblyReference.cache
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\odc10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\odc10.AssemblyInfoInputs.cache
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\odc10.AssemblyInfo.cs
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\odc10.csproj.CoreCompileInputs.cache
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\odc10.dll
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\ref\odc10.dll
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\odc10.pdb
+C:\Users\bosko\Desktop\seesharp\odc10\obj\Debug\net5.0\odc10.genruntimeconfig.cache

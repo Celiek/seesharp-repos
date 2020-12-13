@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace StudentDiary
 {
-    public class Diary
+     class Diary
     {
         public Diary()
         {
@@ -12,6 +12,27 @@ namespace StudentDiary
         }
         //Stan (zmienne w tym przypadku pola)
         List<float> ratings;
+
+        public float MinGrade = 0;
+        public float MaxGrade  = 10;
+
+        internal DiaryStatistics ComputeStatistics()
+        {
+            DiaryStatistics stats = new DiaryStatistics();
+
+            float sum = 0f;
+
+            foreach (var rating in ratings)
+            {
+                sum += rating;
+            }
+
+            stats.AverageGrade = sum / ratings.Count();
+            stats.MaxGrade = ratings.Max();
+            stats.MinGrade = ratings.Min();
+
+            return stats;
+        }
 
 
         //Zachowania
@@ -21,19 +42,6 @@ namespace StudentDiary
             ratings.Add(rating);
         }
 
-        public float CalculateAverage()
-        {
-            float sum = 0, avg = 0;
-
-            foreach (var rating in ratings)
-            {
-                sum += rating;
-            }
-
-            avg = sum / ratings.Count();
-
-            return avg;
-        }
 
         public float GiveMaxRating()
         {
